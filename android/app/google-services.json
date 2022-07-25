@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934400073880",
+    "firebase_url": "https://appnuoica-a81d0-default-rtdb.firebaseio.com",
+    "project_id": "appnuoica-a81d0",
+    "storage_bucket": "appnuoica-a81d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934400073880:android:9696967778014cfb4e70ed",
+        "android_client_info": {
+          "package_name": "com.selim.plantui.plantappui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934400073880-iub38h6rv0mlqsitcdufser610hoa8ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAREMFm9ThpOEIiv9CFdO0vwkfHhIyuaTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934400073880-iub38h6rv0mlqsitcdufser610hoa8ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
